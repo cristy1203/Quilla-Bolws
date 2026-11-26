@@ -260,7 +260,8 @@ def pagina_resultado(resultado):
                 color: #52656A;
                 font-size: 13px;
                 line-height: 1.5;
-                margin-top: 20px; }}
+                margin-top: 20px;
+            }}
 
             .boton {{
                 display: block;
